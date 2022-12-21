@@ -1,0 +1,6 @@
+C:\Users\yusuf\OneDrive\Dokumenter\GitHub\universal-robots-rabbitmq\Api_universal-robots-rmq\obj\Debug\net6.0\Api_universal-robots-rmq.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Dokumenter\GitHub\universal-robots-rabbitmq\Api_universal-robots-rmq\obj\Debug\net6.0\Api_universal-robots-rmq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\OneDrive\Dokumenter\GitHub\universal-robots-rabbitmq\Api_universal-robots-rmq\obj\Debug\net6.0\Api_universal-robots-rmq.AssemblyInfoInputs.cache
+C:\Users\yusuf\OneDrive\Dokumenter\GitHub\universal-robots-rabbitmq\Api_universal-robots-rmq\obj\Debug\net6.0\Api_universal-robots-rmq.AssemblyInfo.cs
+C:\Users\yusuf\OneDrive\Dokumenter\GitHub\universal-robots-rabbitmq\Api_universal-robots-rmq\obj\Debug\net6.0\Api_universal-robots-rmq.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Dokumenter\GitHub\universal-robots-rabbitmq\Api_universal-robots-rmq\obj\Debug\net6.0\Api_universal-robots-rmq.MvcApplicationPartsAssemblyInfo.cache

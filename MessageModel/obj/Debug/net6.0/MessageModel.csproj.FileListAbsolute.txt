@@ -1,0 +1,12 @@
+C:\Users\yusuf\OneDrive\Dokumenter\GitHub\universal-robots-rabbitmq\MessageModel\bin\Debug\net6.0\MessageModel.deps.json
+C:\Users\yusuf\OneDrive\Dokumenter\GitHub\universal-robots-rabbitmq\MessageModel\bin\Debug\net6.0\MessageModel.dll
+C:\Users\yusuf\OneDrive\Dokumenter\GitHub\universal-robots-rabbitmq\MessageModel\bin\Debug\net6.0\MessageModel.pdb
+C:\Users\yusuf\OneDrive\Dokumenter\GitHub\universal-robots-rabbitmq\MessageModel\obj\Debug\net6.0\MessageModel.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Dokumenter\GitHub\universal-robots-rabbitmq\MessageModel\obj\Debug\net6.0\MessageModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\OneDrive\Dokumenter\GitHub\universal-robots-rabbitmq\MessageModel\obj\Debug\net6.0\MessageModel.AssemblyInfoInputs.cache
+C:\Users\yusuf\OneDrive\Dokumenter\GitHub\universal-robots-rabbitmq\MessageModel\obj\Debug\net6.0\MessageModel.AssemblyInfo.cs
+C:\Users\yusuf\OneDrive\Dokumenter\GitHub\universal-robots-rabbitmq\MessageModel\obj\Debug\net6.0\MessageModel.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Dokumenter\GitHub\universal-robots-rabbitmq\MessageModel\obj\Debug\net6.0\MessageModel.dll
+C:\Users\yusuf\OneDrive\Dokumenter\GitHub\universal-robots-rabbitmq\MessageModel\obj\Debug\net6.0\refint\MessageModel.dll
+C:\Users\yusuf\OneDrive\Dokumenter\GitHub\universal-robots-rabbitmq\MessageModel\obj\Debug\net6.0\MessageModel.pdb
+C:\Users\yusuf\OneDrive\Dokumenter\GitHub\universal-robots-rabbitmq\MessageModel\obj\Debug\net6.0\ref\MessageModel.dll

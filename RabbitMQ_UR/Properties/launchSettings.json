@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "RabbitMQ_UR": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
